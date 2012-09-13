@@ -2,14 +2,14 @@
 
 ## What is it?
 
-This is MessagePack serialization/deserialization for Unity (or Unity Pro).
+This is MessagePack serialization/deserialization for Unity (or Unity Pro.)
 
 This library is based on Kazuki's MessagePack for C#
 (not the current official for CLI, because it depends on .NET framework 4.0.) 
 
 ## Install
 
-To install this, copy these files to Assets folder in your project.
+To install this, copy files in src to Assets folder in your project.
 
 ## See also
 
